@@ -25,13 +25,13 @@ function Nav() {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav ms-auto">
               <li className="nav-item">
-                <Link className="nav-link active" to="/">
+                <Link className="nav-link active" to="/react-products">
                   Home
                 </Link>
               </li>
               <li className="nav-item"></li>
               <li className="nav-item">
-                <Link className="nav-link" to="/products">
+                <Link className="nav-link" to="/react-products">
                   Products
                 </Link>
               </li>

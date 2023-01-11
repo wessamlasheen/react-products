@@ -11,8 +11,8 @@ function App() {
       <Nav />
       <Routes>
         {/* <Route path="/" element={<Home />} /> */}
-        <Route path="/" element={<Products />} />
-        <Route path="products" element={<Products />} />
+        <Route path="/react-products" element={<Products />} />
+        <Route path="/react-products" element={<Products />} />
         <Route path="cart" element={<Cart />} />
       </Routes>
     </div>
